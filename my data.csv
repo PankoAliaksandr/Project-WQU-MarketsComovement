@@ -1,0 +1,16 @@
+Exchange,Economy,Symbol,Company
+New York Stock Exchange,USA,^GSPC,S&P 500
+London Stock Exchange Group,UK,^FTSE,FTSE 100
+Japan Exchange Group Tokyo,Japan,^N225,Nikkei 225
+Shanghai Stock Exchange,China,000001.SS,SSE Composite Index
+Hong Kong Stock Exchange,Hong Kong,^HSI,HANG SENG INDEX
+Euronext,EU,^N100,EURONEXT 100
+Toronto Stock Exchange,Canada,^GSPTSE,S&P/TSX Composite index
+Deutsche Beorse,Germany,^GDAXI,DAX
+Bombay Stock Exchange,India,^BSESN,S&P BSE SENSEX
+Moscow Exchange,Russia,MICEXINDEXCF.ME,MICEX IND
+Australian Securities Exchange,Australia,^AORD,ALL ORDINARIES
+Korea Exchange,South Korea,^KS11,KOSPI Composite Index
+Jakarta Stock Exchange, Indonesia,^JKSE,Jakarta Composite Index
+Taiwan Stock Exchange,Taiwan,^TWII,TSEC weighted index
+BM&F Bovespa,Brazil,^BVSP,IBOVESPA
